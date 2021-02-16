@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm James - a web and software developer.
+I'm James - a web/software developer.
 
 <!--
 **JamesCalingo/JamesCalingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
