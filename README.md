@@ -8,7 +8,7 @@ Currently, I mostly work in JavaScript, but I've dabbled with TypeScript a bit a
 
 You can see my work at https://jamescalingo.dev, or read some of my thoughts at https://jamescalingo.com.
 
-I can also be found <a href="https://linkedin.com/in/james-calingo" target="blank">on LinkedIn>.
+I can also be found <a href="https://linkedin.com/in/james-calingo" target="blank">on LinkedIn</a>.
 
 <!--
 **JamesCalingo/JamesCalingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
