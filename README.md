@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm James - a web/software developer.
+I'm James - a software developer/engineer.
 
 I've been on this journey with code for some time now, and I'm always fascinated by how deep everything is and how much there is to learn.
 
-Currently, I mostly work in JavaScript with a focus on React, but I've dabbled with TypeScript a bit and have other languages and frameworks on my radar that I'd love to learn. Currently, my top priority in this respect is Python, with Go also in there a bit.
+Currently, I mostly work in JavaScript with a focus on React, but I've dabbled other languages and frameworks from time to time and am always seeking out new things to learn. Currently, my top priority in this respect is Python, with Go also in there a bit.
 
 You can see my work at https://jamescalingo.dev, or read some of my thoughts at https://jamescalingo.com.
 
