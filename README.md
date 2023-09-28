@@ -6,7 +6,7 @@ I've been on this journey with code for some time now, and I'm always fascinated
 
 Currently, I mostly work in JavaScript with a focus on React, but I've dabbled other languages and frameworks from time to time and am always seeking out new things to learn. Currently, my top priority in this respect is Python, with Go also in there a bit.
 
-You can see my work at https://jamescalingo.dev, or read some of my thoughts at https://jamescalingo.com.
+You can see my work at https://jamescalingo.dev, or read some of my thoughts at https://overclocked-overthoughts.netlify.app.
 
 I can also be found <a href="https://linkedin.com/in/james-calingo" target="blank">on LinkedIn</a>.
 
