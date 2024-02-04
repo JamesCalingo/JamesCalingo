@@ -4,7 +4,7 @@ I'm James - a software developer/engineer.
 
 I've been on this journey with code for some time now, and I'm always fascinated by how deep everything is and how much there is to learn.
 
-Currently, I mostly work in JavaScript with a focus on React and React Native, but I've dabbled other languages and frameworks from time to time and am always seeking out new things to learn.
+Currently, I mostly work in JavaScript with a focus on React and React Native, but I've dabbled other languages and frameworks from time to time and am always seeking out new things to learn (currently working on Go with a few other things sprinked in).
 
 You can see my work at <a href="https://jamescalingo.dev" target="blank">https://jamescalingo.dev</a>, or read some of my thoughts at <a href="https://overclocked-overthoughts.netlify.app" target="blank">my blog here</a>.
 
