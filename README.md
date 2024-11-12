@@ -6,6 +6,8 @@ I've been on this journey with code for some time now, and I'm always fascinated
 
 Currently, I mostly work in JavaScript with a focus on React and React Native, but I've dabbled other languages and frameworks from time to time and am always seeking out new things to learn (currently working on Go with a few other things sprinked in).
 
+I've also been working on a couple of open source projects with Code for Boston.
+
 You can see my work at <a href="https://jamescalingo.dev" target="blank">https://jamescalingo.dev</a>, or read some of my thoughts at <a href="https://overclocked-overthoughts.netlify.app" target="blank">my blog here</a>.
 
 I can also be found <a href="https://linkedin.com/in/james-calingo" target="blank">on LinkedIn</a>.
